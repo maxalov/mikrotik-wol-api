@@ -4,7 +4,7 @@ Manual about librouteros and some examples you can find there https://libroutero
 
 # So, how its work?
 Basically you just need to connect to your router, and send "magic packet" to PC.
-But if you want use this script remotely you need access to you router via public ip or ip tunnel or something else
+But if you want use this script remotely you need access to you router via public ip or ip tunnel or something else.
 Below I will give an example of setting up this solution.
 
 # 1. You need to create mikrotik script:
