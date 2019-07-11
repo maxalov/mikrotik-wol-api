@@ -1,5 +1,5 @@
 # Network tool to wake up PC from everywhere
-This is simple python script who use librouteros to send command to router mikrotik via API.
+This is simple python script which use librouteros to send command to router mikrotik via API.
 Manual about librouteros and some examples you can find there https://librouteros.readthedocs.io/en/latest/usage.html
 
 # So, how its work?
