@@ -17,7 +17,7 @@ add name=Wakeup source="tool wol interface=\"bridge-local\" mac=XX:XX:XX:XX:XX:X
 ```
 # 2. Then configure your network card to accept wol packets.
 
-Try to find instructions in google, because Each device can have its own unique parameters. here is example http://tiny.cc/kh2x8y
+Try to find instructions in google, because Each device can have its own unique parameters. 
 
 # 3. Now! You can use this script
 Just clone this repo and setup your ip address
